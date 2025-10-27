@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**teplomash-team/teplomash-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Адаптивный логотип -->
+![Teplomash Logo](logo-light.png#gh-light-mode-only)
+![Teplomash Logo](logo-dark.png#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+# Teplomash-Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Отдел цифровых технологий и автоматизации**
+
+</div>
+
+---
+
+## 🛠️ Наши проекты
+
+### Teplomash-WMS
+Warehouse Management System - система управления складом
+
+**Технологии:**
+- 📱 Android (Kotlin/Java)
+- 🌐 Vue.js
+- ⚙️ Backend API
+- 🗄️ База данных
+
+---
+
+## 👥 Команда
+
+Команда из двух разработчиков, создающая современные решения для складской логистики.
+
+---
+
+<div align="center">
+
+© 2025 Teplomash-Team. All rights reserved.
+
+</div>
